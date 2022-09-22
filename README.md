@@ -1,2 +1,1 @@
-Minimal starter scaffolding for 11ty/eleventy, to
-automate the creation of simple tests and demos.
+Demonstrates a "gotcha" when overriding directory data specified with `eleventyComputed`.
