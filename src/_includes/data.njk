@@ -1,0 +1,8 @@
+<h2>Data for {{ title }}</h2>
+
+<dl>
+<dt><samp>myItem</samp></dt>
+{% for name, value in myItem %}
+<dd><samp>{{ name }} : {{ value }}</samp></dd>
+{% endfor %}
+</dl>
